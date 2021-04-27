@@ -1,2 +1,12 @@
 # AdMaster
-a brief profile for main Advertising alliance on earth.
+a brief profile for main Advertising alliance on earth.  
+made for indie developers by ❤️.
+
+## Main platform
+| 名称 | 结算周期 | 是否拖账 | 支持提现方式 | 计费币种 | 是否扣量 | 填充速度 | 广告样式数目 | 有灰产广告 | 所属国家 |
+| :--- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| 优量汇 | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | aaaa |
+| 广点通    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | aaaa |
+| 百青藤    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | aaaa |
+| GoogleAd    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | aaaa |
+
