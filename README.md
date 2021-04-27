@@ -13,4 +13,19 @@ made for indie developers by ❤️.
 | 广点通    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
 | 百青藤    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
 | GoogleAd    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | US |
-
+| 百青藤    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 头条    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 快手    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| CloudMobi    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 唯尚    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 穿山甲    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| AdMob    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 老榕树    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 天天联盟    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 腾速广告联盟    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| A5广告联盟    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| Facebook    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | US |
+| imax    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| applivon    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| isource    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 京东    | b      | c     | aaaa | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
