@@ -9,8 +9,8 @@ made for indie developers by ❤️.
 ## Main platform
 | 名称 | 结算周期 | 是否拖账 | 支持提现方式 | 计费币种 | 发票要求 | 是否扣量 | 填充速度 | 广告样式数目 | 有灰产广告 | 所属国家 |
 | :--- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 优量汇 | 月结 | 否 | 对公转账 | ¥ | 增值税专用发票,税点无要求 | 否 | 快 | 多 | 否 | CN |
-| 百青藤    | b      | c     | aaaa | bbbbbb | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
+| 优量汇 | 月结 | 否 | 银行对公转账 | ¥ | 增值税专用发票,税点无要求 | 否 | 快 | 多 | 否 | CN |
+| 百青藤    | 月结  | 否     | 银行对公对私转账 | ¥ | 企业用户需提供普增发票 | 否 | 快 | 多 | 谨慎 | CN |
 | GoogleAd    | b      | c     | aaaa | bbbbbb | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | US |
 | 百青藤    | b      | c     | aaaa | bbbbbb | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
 | 头条    | b      | c     | aaaa | bbbbbb | bbbbbb | ccccc | aaaa | bbbbbb | ccccc | CN |
